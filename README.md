@@ -51,11 +51,11 @@ class About extends Me {
     static socialAndContact () {
         return {
             Social: {
-                Website: 'https://quangsangblog.com/',
-                Github: 'https://github.com/ProCoderEris/'
+                Website: 'https://xxx.com/',
+                Github: 'https://github.com/havq/'
             },
             Contact: {
-                Email: 'quangsang.official@gmail.com'
+                Email: 'xxx@gmail.com'
             }
         }
     }
