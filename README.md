@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+HaLim+!;Welcome+to+my+Github+!)](https://github.com/havq)
 **Visitor**
 
-<p align="center">
+<p>
 <img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" alt="visitor.svg"/>
 </p> 
 
@@ -38,9 +38,10 @@ class About extends Me {
     static fullName = "HaLim";
     static showProgrammingLevel () {
         return {
-            JavaScript: '35%',
-            NodeJS: '63%',
-            Python: '2%'
+            HTML: '90%',
+            JavaScript: '30%',
+            PHP: '59%',
+            CSS: '70%'
         }
     }
     static socialAndContact () {
