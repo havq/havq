@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+HaLim+!;Welcome+to+my+Github+!)](https://github.com/havq)
-**Visitor**
 
 <p>
 <img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" alt="visitor.svg"/>
