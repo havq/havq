@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ```javascript
 class About extends Me {
-    static fullName = "miuMyu";
+    static fullName = "HaLim";
     static showProgrammingLevel () {
         return {
             JavaScript: '35%',
@@ -51,14 +51,13 @@ class About extends Me {
     static socialAndContact () {
         return {
             Social: {
-                Website: 'https://xxx.com/',
+                Website: 'https://hoangha.us/',
                 Github: 'https://github.com/havq/'
             },
             Contact: {
-                Email: 'xxx@gmail.com'
+                Email: 'admin@hoangha.us'
             }
         }
     }
 }
 ```
-**Copy rảnh sẽ sửa =))** 
