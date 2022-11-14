@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-<img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230">
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris)
 **Visitor**
 
 <p align="center">
